@@ -3,7 +3,7 @@ exports.PAGE_PER_SCREEN = 4;
 
 exports.POST = 'post';
 exports.PORTFOLIO = 'portfolio';
-exports.RESUME = 'chef';
+exports.RESUME = 'resume';
 
 // Site Information
 exports.NAME = 'Gatsby Advanced Blog';
@@ -11,7 +11,7 @@ exports.TITLE = 'Ding Dong';
 exports.PREFIX = 'WONISM | ';
 exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
 exports.AUTHOR = 'Robert Engl (Bapa)';
-exports.EMAIL = 'acornbob@aol.com';
+exports.EMAIL = 'yocee57@gmail.com';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
