@@ -38,7 +38,7 @@ const Home = ({ portfolios }) => (
                       <img src={require(`~/resources/${image}`)} alt="portfolio" />
                     )}
                     <h6>
-                      {title}
+                      Dessert
                     </h6>
                   </Link>
                 </PortfolioCard>
