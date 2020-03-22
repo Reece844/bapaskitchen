@@ -10,7 +10,6 @@ collections:
     label: Recipe
     category: "test"
     folder: "src/pages"
-    path: '/{{slug}}/index'
     create: true
     fields:
       - { name: summary, label: Title, widget: string }
