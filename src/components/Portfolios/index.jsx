@@ -27,7 +27,7 @@ const Portfolios = ({ data: { portfolios: { edges: portfolios } } }) => (
                 <img src={require(`~/resources/${image}`)} alt="portfolio" />
               )}
               <h6>
-                Jaime
+                {title}
               </h6>
             </Link>
           </PortfolioCard>
