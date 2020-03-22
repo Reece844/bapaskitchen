@@ -7,7 +7,7 @@ exports.RESUME = 'chef';
 
 // Site Information
 exports.NAME = 'Gatsby Advanced Blog';
-exports.TITLE = 'Gatsby Advanced Blog';
+exports.TITLE = 'Ding Dong';
 exports.PREFIX = 'WONISM | ';
 exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
 exports.AUTHOR = 'Robert Engl (Bapa)';
