@@ -115,6 +115,13 @@ export const ListMenu = styled.li`
       max-height: 360px;
     }
   }
+  color: white;
+  text-shadow:
+  1.5px 1.5px 0 white,
+-1px -1px 0 white,  
+ 1px -1px 0 white,
+ -1px 1px 0 white,
+  1px 1px 0 white;
 
   small {
     font-size: 10px;

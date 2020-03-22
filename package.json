@@ -29,6 +29,8 @@
     "core-js": "^2.6.5",
     "gatsby": "^2.8.5",
     "gatsby-cli": "^2.11.0",
+    "gatsby-plugin-netlify-cms": "^4.2.0",
+    "netlify-cms-app": "^2.11.32",
     "npm": "^6.9.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",

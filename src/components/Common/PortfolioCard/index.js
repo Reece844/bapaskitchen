@@ -60,6 +60,12 @@ const PortfolioCard = styled.section`
     transform: translate(-50%, -50%);
     font-size: 50px;
     color: white;
+    text-shadow:
+    1.5px 1.5px 0 #000,
+  -1px -1px 0 #000,  
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
   }
 
   h4 {
