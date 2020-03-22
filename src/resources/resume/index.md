@@ -1,8 +1,8 @@
 ---
 type: "resume"
-title: "Resume"
+title: "chef"
 date: "2000-01-01T00:00:00.000Z"
-path: "/resume/"
+path: "/chef/"
 images: [
   "resume/Dad.jpg"
 ]
