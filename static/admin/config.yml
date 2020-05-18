@@ -10,7 +10,7 @@ collections:
     label: "Recipe"
     folder: "src/pages"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    path: "/pages/"
+    path: "/testpage/"
     create: true
     fields:
       - { name: "category", label: "Category", widget: "string" }
