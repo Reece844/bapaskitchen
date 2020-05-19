@@ -134,10 +134,7 @@ const PostTemplate = ({
       </Helmet>
       {image === null ? null : (
         <ImageWrapper>
-          <img
-            src={image}
-            alt={title}
-          />
+          <img src={image} alt={title} />
         </ImageWrapper>
       )}
       <h1>
