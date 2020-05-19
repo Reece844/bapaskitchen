@@ -5,7 +5,7 @@ tags: ["Dinner", "Meat"]
 title: "Tester"
 date: "2018-01-01T00:00:00.000Z"
 summary: "asdfasdfasdfasdf"
-images: ["images/Grilled-Pork-tenderloin-marinade-HERO.jpg"]
+images: ["Grilled-Pork-tenderloin-marinade-HERO.jpg"]
 ---
 
 > 1/4 cup	brown sugar
