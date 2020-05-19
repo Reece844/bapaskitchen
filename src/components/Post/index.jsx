@@ -122,7 +122,7 @@ const PostTemplate = ({
     renderComponents(components);
   }, []);
 
-  const [image = "/resources/me.png"] = images;
+  const image = images[0];
 
   return (
     <PostWrapper>
