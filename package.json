@@ -94,19 +94,12 @@
     "last 2 versions"
   ],
   "lint-staged": {
-    "linters": {
-      "*.{js,jsx}": [
-        "npm run lint",
-        "git add"
-      ]
-    },
+    "linters": {},
     "ignore": [
       "./.*.js"
     ]
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "npm run precommit"
-    }
+    "hooks": {}
   }
 }

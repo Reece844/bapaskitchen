@@ -135,7 +135,7 @@ const PostTemplate = ({
       {image === null ? null : (
         <ImageWrapper>
           <img
-            src={image.includes('//') ? image : require(`~/resources/${image}`)}
+            src={image}
             alt={title}
           />
         </ImageWrapper>
